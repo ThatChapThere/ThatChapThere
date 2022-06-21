@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThatChapThere
+- 👀 I’m interested in paleontology and true crime
+- 🌱 I’m currently learning `C`
+- 📫 How to reach me: (jamespsmith742@gmail.com)[mailto:jamespsmith742@gmail.com]
